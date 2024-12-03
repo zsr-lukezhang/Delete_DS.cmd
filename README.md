@@ -29,3 +29,9 @@ C:\Folder\Folder 1\Folder in folder 1\.DS_Store
 C:\Folder\Folder_2\.DS_Store
 C:\Folder\Folder_2\Folder 3\.DS_Store
 ```
+
+## Terms of use
+> You must read and agree to the **LATEST VERSION** of terms of use before you use this program.
+
+See here:
+[**Terms of use for `Delete_DS.cmd`**](https://github.com/zsr-lukezhang/Delete_DS.cmd/blob/main/TERMS_OF_USE.md)
